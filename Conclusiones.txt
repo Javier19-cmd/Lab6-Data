@@ -1,0 +1,7 @@
+- La mayoría de los tweets relacionados con los dos candidatos Sandra Torres y Bernardo Arévalo fueron clasificados como neutrales. Esto indica que muchos tweets pueden ser informativos o carecer de palabras clave obvias que indiquen un sentimiento particular.
+
+- Usando una nube de palabras, descubrimos que palabras específicas como "Guatemala", "país" y "gobierno" aparecían con frecuencia en los tweets relacionados con ambos candidatos. En términos de candidatos y política en general, refleja puntos de discusión popular.
+
+- Se pudo ver que los principales medios de comunicación, incluidos "Emisoras Unidas" y "Publinews Guatemala", tienen la discusión más activa sobre ambos candidatos. Estos medios pueden afectar las discusiones en línea debido a su amplio alcance y audiencia.
+
+- Está claro que las discusiones en línea sobre los dos candidatos tienen algún tipo de estructura de red centralizada basada en el realce de los principales medios de comunicación.
